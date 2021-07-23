@@ -45,4 +45,4 @@ is acceptable syntax.
 
 ### Memory map
 
-You can also display individual bytes of memory as their ASCII characaters.
+You can also display individual bytes of memory as their ASCII characters.
