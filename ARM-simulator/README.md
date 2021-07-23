@@ -2,11 +2,11 @@
 
 ## VisUAL2
 
-This is an assembly level simulator for a subset of the ARM instruction set.  It's developed in F# and can be found here:
+This is an assembly level simulator for a subset of the ARM instruction set.  It's developed in F# and can be found here: https://github.com/tomcl/visual2.github.io
 
 ## VisUAL
 
-This is an older version of this simulator written in Java.  It can be found here:
+This is an older version of this simulator written in Java.  It can be found here: https://salmanarif.bitbucket.io/visual/index.html
 
 ## VisUAL - modified
 
